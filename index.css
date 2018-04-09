@@ -1,0 +1,156 @@
+body {
+background-image: url("trainingLP.jpg");
+background-repeat: no-repeat;
+font-family: Roboto;
+background-size: 100%;
+margin: 0;
+text-decoration: none;
+}
+header {
+background-image: url("trainingLP.jpg");
+   background-color: #cccccc;
+	color: #ffffff;
+}
+.image{
+	padding-top: 66px;
+}
+.header-pretitle{
+	margin: 0;
+	font-size: 18px;
+	margin-top:122px; 
+	font-weight: 400;
+	margin-bottom: -8px;
+}
+.header-title{
+	margin: 0;
+line-height: 48px;
+font-size: 48px;
+font-weight: 700;
+margin-top: 10px;
+}
+.header-subtitle{
+font-size: 18px;
+font-weight: 200;
+margin-top: 20px;
+}
+.header-button{
+	/* Style for "Прямоуголь" */
+width: 200px;
+height: 50px;
+box-shadow: 10px 17px 34px 6px #000000;
+background-color: #ffffff;
+border-radius: 50px ;
+color: #072b6f;
+font-size: 18px;
+font-weight: 700;
+padding: 10px 30px;
+text-align: center;
+text-decoration: none;
+margin-top: 100px;
+}
+
+footer {
+	padding-top: 888px;
+}
+#one{
+	/* Style for "Владислав" */
+width: 236px;
+height: 23px;
+color: #fefefe;
+font-family: Roboto;
+font-size: 24px;
+font-weight: 700;
+line-height: 40px;
+}
+#two{
+	/* Style for "Я в социал" */
+width: 189px;
+height: 17px;
+color: #deedfe;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 39.81px;
+}
+#three{
+/* Style for "Напишите м" */
+width: 127px;
+height: 14px;
+color: #deedfe;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 39.8px;
+}
+#four{
+	/* Style for "Разработка" */
+width: 247px;
+height: 19px;
+color: #deedfe;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+/* Text style for "Р, азработ" */
+line-height: 40px;
+/* Text style for "ключ" */
+line-height: 24px;
+}
+#five {
+	width: 40px;
+height: 40px;
+
+}
+#six{
+	/* Style for "Написать" */
+width: 80px;
+height: 14px;
+color: #deedfe;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 39.8px;
+}
+footer{
+	color:#fff;
+	
+}
+.autor{
+	font-size: 30px;
+	margin-bottom: -10px;
+	padding-top: 7px;
+
+}
+.text{
+	margin-top: 0;
+	margin-bottom: -8px;
+}
+.social-block{
+	text-align: center;
+font-size: 18px;
+}
+.social-block a {
+display: inline-block;
+margin-left: 13px;
+margin-right: 13px;
+
+}
+.feedback{
+
+	margin-bottom: -1px;
+	
+	padding-top: 25px;
+	font-size: 22px;
+     
+}
+.footer-button{
+    
+	border: 1px solid #ffffff;
+	display: inline-block;
+	background-color: transparent;
+	color: #fff;
+	font-size: 18px;
+	margin-top: 8px;
+	border-radius: 50px;
+	padding: 11px 40px ;
+text-decoration: none;
+}
